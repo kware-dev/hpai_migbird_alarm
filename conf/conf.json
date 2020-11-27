@@ -1,4 +1,5 @@
 {
   "baseUrl~": "http://172.30.1.250:3002"
-  ,"baseUrl": "http://172.30.1.250:3002/oie/hpai/overview"  
+  ,"baseUrl~~": "http://172.30.1.250:3002/oie/hpai/overview"  
+  ,"baseUrl": "http://172.30.1.250:3002/static/media/Top_Logos_rnd.bb401e17.png"    
 }
