@@ -1,5 +1,9 @@
 {
-  "baseUrl": "http://www.kware.co.kr/project/mr"
-  ,"mainPage": "/index.html"
-  ,"setLocalStorage": "/index.html"
+  "baseUrl": "http://rnd.kware.co.kr:10084/ha"
+  ,"mainPage": "/inflowMonitor.html"
+  ,"setLocalStorage": "/setLocalStorage.html"
+  ,"baseUrl~": "http://www.kware.co.kr/project/mr"
+  ,"mainPage~": "/index.html"
+  ,"setLocalStorage~": "/index.html"
+  
 }
